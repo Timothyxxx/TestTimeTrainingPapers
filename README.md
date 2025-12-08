@@ -1,4 +1,4 @@
-# TestTimeTrainingPapers
+# TestTimeTrainingPapers (TTT)
 ![](https://img.shields.io/github/last-commit/Timothyxxx/TestTimeLearningPapers?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
