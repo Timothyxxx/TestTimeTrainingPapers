@@ -32,14 +32,18 @@
 
     *Yu Sun, Xinhao Li, Karan Dalal, Jiarui Xu, Arjun Vikram, Genghan Zhang, Yann Dubois, Xinlei Chen, Xiaolong Wang, Sanmi Koyejo, Tatsunori Hashimoto, Carlos Guestrin*  [[pdf](https://arxiv.org/abs/2407.04620)], 2024.7
 
-8. **Titans: Learning to Memorize at Test Time.** 
+8. **The Surprising Effectiveness of Test-Time Training for Few-Shot Learning.** 
+
+    *Ekin Akyürek, Mehul Damani, Adam Zweiger, Linlu Qiu, Han Guo, Jyothish Pari, Yoon Kim, Jacob Andreas*  [[pdf](https://arxiv.org/abs/2411.07279)], 2024.11
+
+9. **Titans: Learning to Memorize at Test Time.** 
 
     *Ali Behrouz, Peilin Zhong, Vahab Mirrokni*  [[pdf](https://arxiv.org/abs/2501.00663)], 2025.1
 
-9. **One-Minute Video Generation with Test-Time Training.** 
+10. **One-Minute Video Generation with Test-Time Training.** 
 
     *Karan Dalal, Daniel Koceja, Gashon Hussein, Jiarui Xu, Yue Zhao, Youjin Song, Shihao Han, Ka Chun Cheung, Jan Kautz, Carlos Guestrin, Tatsunori Hashimoto, Sanmi Koyejo, Yejin Choi, Yu Sun, Xiaolong Wang*  [[pdf](https://arxiv.org/abs/2504.05298)], 2025.4
 
-10. **Nested Learning: The Illusion of Deep Learning Architectures.** 
+11. **Nested Learning: The Illusion of Deep Learning Architectures.** 
 
     *Ali Behrouz, Meisam Razaviyayn, Peiling Zhong, Vahab Mirrokni*  [[pdf](https://abehrouz.github.io/files/NL.pdf)], 2025.11
