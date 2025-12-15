@@ -54,4 +54,4 @@
 
 13. **Nested Learning: The Illusion of Deep Learning Architectures.** 
 
-    *Ali Behrouz, Meisam Razaviyayn, Peiling Zhong, Vahab Mirrokni*  [[pdf](https://abehrouz.github.io/files/NL.pdf)], 2025.11
+    *Ali Behrouz, Meisam Razaviyayn, Peiling Zhong, Vahab Mirrokni*  [[pdf](https://abehrouz.github.io/files/NL.pdf)], [[reproduction](https://github.com/kmccleary3301/nested_learning/tree/main)], 2025.11
