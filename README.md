@@ -61,10 +61,14 @@
 
     *Gavriel Di Nepi, Federico Siciliano, Fabrizio Silvestri*  [[pdf](https://arxiv.org/abs/2510.09551)], 2025.10
 
-15. **Nested Learning: The Illusion of Deep Learning Architectures.** 
+15. **ThetaEvolve: Test-time Learning on Open Problems** 
+
+    *Yiping Wang, Shao-Rong Su, Zhiyuan Zeng, Eva Xu, Liliang Ren, Xinyu Yang, Zeyi Huang, Xuehai He, Luyao Ma, Baolin Peng, Hao Cheng, Pengcheng He, Weizhu Chen, Shuohang Wang, Simon Shaolei Du, Yelong Shen*  [[pdf](https://arxiv.org/abs/2511.23473)], 2025.11
+
+16. **Nested Learning: The Illusion of Deep Learning Architectures.** 
 
     *Ali Behrouz, Meisam Razaviyayn, Peiling Zhong, Vahab Mirrokni*  [[pdf](https://abehrouz.github.io/files/NL.pdf)], [[reproduction](https://github.com/kmccleary3301/nested_learning/tree/main)], 2025.11
 
-16. **Learning to Discover at Test Time** 
+17. **Learning to Discover at Test Time** 
 
     *Mert Yuksekgonul, Daniel Koceja, Xinhao Li, Federico Bianchi, Jed McCaleb, Xiaolong Wang, Jan Kautz, Yejin Choi, James Zou, Carlos Guestrin, Yu Sun*  [[pdf](https://arxiv.org/abs/2601.16175)], 2026.1
