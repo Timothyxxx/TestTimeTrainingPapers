@@ -48,14 +48,23 @@
 
     *Karan Dalal, Daniel Koceja, Gashon Hussein, Jiarui Xu, Yue Zhao, Youjin Song, Shihao Han, Ka Chun Cheung, Jan Kautz, Carlos Guestrin, Tatsunori Hashimoto, Sanmi Koyejo, Yejin Choi, Yu Sun, Xiaolong Wang*  [[pdf](https://arxiv.org/abs/2504.05298)], 2025.4
 
-12. **Self-Improving LLM Agents at Test-Time.** 
+12. **The Era of Real-World Human Interaction: RL from User Conversations** 
+
+    *Chuanyang Jin, Jing Xu, Bo Liu, Leitian Tao, Olga Golovneva, Tianmin Shu, Wenting Zhao, Xian Li, Jason Weston*  [[pdf](https://arxiv.org/abs/2509.25137)], 2025.9
+
+
+13. **Self-Improving LLM Agents at Test-Time.** 
 
     *Emre Can Acikgoz, Cheng Qian, Heng Ji, Dilek Hakkani-Tür, Gokhan Tur*  [[pdf](https://arxiv.org/abs/2510.07841)], 2025.10
 
-13. **Titans Revisited: A Lightweight Reimplementation and Critical Analysis of a Test-Time Memory Model.** 
+14. **Titans Revisited: A Lightweight Reimplementation and Critical Analysis of a Test-Time Memory Model.** 
 
     *Gavriel Di Nepi, Federico Siciliano, Fabrizio Silvestri*  [[pdf](https://arxiv.org/abs/2510.09551)], 2025.10
 
-14. **Nested Learning: The Illusion of Deep Learning Architectures.** 
+15. **Nested Learning: The Illusion of Deep Learning Architectures.** 
 
     *Ali Behrouz, Meisam Razaviyayn, Peiling Zhong, Vahab Mirrokni*  [[pdf](https://abehrouz.github.io/files/NL.pdf)], [[reproduction](https://github.com/kmccleary3301/nested_learning/tree/main)], 2025.11
+
+16. **Learning to Discover at Test Time** 
+
+    *Mert Yuksekgonul, Daniel Koceja, Xinhao Li, Federico Bianchi, Jed McCaleb, Xiaolong Wang, Jan Kautz, Yejin Choi, James Zou, Carlos Guestrin, Yu Sun*  [[pdf](https://arxiv.org/abs/2601.16175)], 2026.1
