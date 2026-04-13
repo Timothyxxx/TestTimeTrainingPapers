@@ -72,3 +72,7 @@
 17. **Learning to Discover at Test Time** 
 
     *Mert Yuksekgonul, Daniel Koceja, Xinhao Li, Federico Bianchi, Jed McCaleb, Xiaolong Wang, Jan Kautz, Yejin Choi, James Zou, Carlos Guestrin, Yu Sun*  [[pdf](https://arxiv.org/abs/2601.16175)], 2026.1
+
+18. **In-Place Test-Time Training** 
+
+    *Guhao Feng, Shengjie Luo, Kai Hua, Ge Zhang, Di He, Wenhao Huang, Tianle Cai*  [[pdf](https://arxiv.org/abs/2604.06169)], 2026.4
